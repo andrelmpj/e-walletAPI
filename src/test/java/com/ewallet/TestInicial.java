@@ -1,4 +1,4 @@
-package com.info.ewallet;
+package com.ewallet;
 
 import static org.junit.Assert.*;
 
